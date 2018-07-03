@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Paybox plugin\n"
+"POT-Creation-Date: 2015-10-06 12:50+0200\n"
+"PO-Revision-Date: 2015-10-06 13:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: BM Services <wordpress@paybox.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/wc-paybox-abstract-gateway.php:67
+#: class/wc-paybox-abstract-gateway.php:112
+msgid "Enable/Disable"
+msgstr "Actif/Inactif"
+
+#: class/wc-paybox-abstract-gateway.php:69
+msgid "Enable Paybox Payment"
+msgstr "Activer le paiement par Paybox"
+
+#: class/wc-paybox-abstract-gateway.php:73
+msgid "Title"
+msgstr "Titre"
+
+#: class/wc-paybox-abstract-gateway.php:75
+msgid "This controls the title which the user sees during checkout."
+msgstr "Titre visible par le client lors d'une commande"
+
+#: class/wc-paybox-abstract-gateway.php:79
+msgid "Description"
+msgstr "Description"
+
+#: class/wc-paybox-abstract-gateway.php:81
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+"Description de la méthode de paiement . Visible par le client lors d'une "
+"commande"
+
+#: class/wc-paybox-abstract-gateway.php:86
+msgid "Delay"
+msgstr "Délai"
+
+#: class/wc-paybox-abstract-gateway.php:89
+msgid "Immediate"
+msgstr "Immédiat"
+
+#: class/wc-paybox-abstract-gateway.php:90
+msgid "1 day"
+msgstr "1 jour"
+
+#: class/wc-paybox-abstract-gateway.php:91
+msgid "2 days"
+msgstr "2 jours"
+
+#: class/wc-paybox-abstract-gateway.php:92
+msgid "3 days"
+msgstr "3 jours"
+
+#: class/wc-paybox-abstract-gateway.php:93
+msgid "4 days"
+msgstr "4 jours"
+
+#: class/wc-paybox-abstract-gateway.php:94
+msgid "5 days"
+msgstr "5 jours"
+
+#: class/wc-paybox-abstract-gateway.php:95
+msgid "6 days"
+msgstr "6 jours"
+
+#: class/wc-paybox-abstract-gateway.php:96
+msgid "7 days"
+msgstr "7 jours"
+
+#: class/wc-paybox-abstract-gateway.php:102
+#: class/wc-paybox-abstract-gateway.php:124
+msgid "Minimal amount"
+msgstr "Montant minimal"
+
+#: class/wc-paybox-abstract-gateway.php:104
+msgid ""
+"Enable this payment method for order with amount greater or equals to this "
+"amount (empty to ignore this condition)"
+msgstr ""
+"Activer 3D Secure pour les commandes dont le montant est supérieur ou égal "
+"au montant suivant (laissez vide pour ne pas activer cette condition)"
+
+#: class/wc-paybox-abstract-gateway.php:108
+msgid "3D Secure"
+msgstr "3D Secure"
+
+#: class/wc-paybox-abstract-gateway.php:114
+msgid "Enable 3D Secure"
+msgstr "Activer 3D Secure"
+
+#: class/wc-paybox-abstract-gateway.php:115
+msgid ""
+"You can enable 3D Secure for all orders or depending on following conditions"
+msgstr ""
+"Vous pouvez activer  3D Secure pour toutes les commandes ou en fonction des "
+"conditions suivantes."
+
+#: class/wc-paybox-abstract-gateway.php:118
+msgid "Disabled"
+msgstr "Inactif"
+
+#: class/wc-paybox-abstract-gateway.php:119
+msgid "Enabled"
+msgstr "Actif"
+
+#: class/wc-paybox-abstract-gateway.php:120
+msgid "Conditional"
+msgstr "Sélectif"
+
+#: class/wc-paybox-abstract-gateway.php:126
+msgid ""
+"Enable 3D Secure for order with amount greater or equals to this amount "
+"(empty to ignore this condition)"
+msgstr ""
+"Activer 3D Secure pour les commandes dont le montant est supérieur ou égal "
+"au montant suivant "
+
+#: class/wc-paybox-abstract-gateway.php:130
+msgid "Paybox account"
+msgstr "Compte Paybox"
+
+#: class/wc-paybox-abstract-gateway.php:134
+msgid "Site number"
+msgstr "Numéro du site"
+
+#: class/wc-paybox-abstract-gateway.php:136
+msgid "Site number provided by Paybox."
+msgstr "Le numéro du site vous est fourni par Paybox"
+
+#: class/wc-paybox-abstract-gateway.php:140
+msgid "Rank number"
+msgstr "Rang"
+
+#: class/wc-paybox-abstract-gateway.php:142
+msgid "Rank number provided by Paybox (two last digits)."
+msgstr "Numéro de rang fourni par Paybox (deux derniers chiffres)."
+
+#: class/wc-paybox-abstract-gateway.php:146
+msgid "Login"
+msgstr "Identifiant"
+
+#: class/wc-paybox-abstract-gateway.php:148
+msgid "Internal login provided by Paybox."
+msgstr "Votre identifiant vous est fourni par Paybox"
+
+#: class/wc-paybox-abstract-gateway.php:152
+msgid "HMAC"
+msgstr "HMAC"
+
+#: class/wc-paybox-abstract-gateway.php:154
+msgid "Secrete HMAC key to create using the Paybox interface."
+msgstr "Clé secrète HMAC à générer puis activer dans votre Back-Office Paybox."
+
+#: class/wc-paybox-abstract-gateway.php:158
+msgid "Environment"
+msgstr "Environnement"
+
+#: class/wc-paybox-abstract-gateway.php:160
+msgid "In test mode your payments will not be sent to the bank."
+msgstr "En mode test, vos paiements ne seront pas envoyé à la banque."
+
+#: class/wc-paybox-abstract-gateway.php:162
+msgid "Production"
+msgstr "Production"
+
+#: class/wc-paybox-abstract-gateway.php:163
+msgid "Test"
+msgstr "Test"
+
+#: class/wc-paybox-abstract-gateway.php:168
+msgid "Technical settings"
+msgstr "Configuration technique"
+
+#: class/wc-paybox-abstract-gateway.php:172
+msgid "Allowed IPs "
+msgstr "Adresses IP autorisées"
+
+#: class/wc-paybox-abstract-gateway.php:174
+msgid "A coma separated list of Paybox IPs."
+msgstr ""
+"IP des serveurs Paybox autorisés, séparées par des virgules, pour la "
+"réception des Notifications Instantanées de Paiement."
+
+#: class/wc-paybox-abstract-gateway.php:178
+msgid "Debug"
+msgstr "Debug"
+
+#: class/wc-paybox-abstract-gateway.php:180
+msgid "Enable some debugging information"
+msgstr "Activer les informations de debuggage"
+
+#: class/wc-paybox-abstract-gateway.php:212
+msgid "Customer is redirected to Paybox payment page"
+msgstr "Le client est redirigé vers la pages de paiement paybox"
+
+#: class/wc-paybox-abstract-gateway.php:237
+msgid "Back..."
+msgstr "Retour..."
+
+#: class/wc-paybox-abstract-gateway.php:245
+msgid ""
+"This is a debug view. Click continue to be redirected to Paybox payment page."
+msgstr ""
+"Ceci est une vue de debug. Cliquer sur \"continuer\" pour être redirigé vers "
+"la page de paiement Paybox."
+
+#: class/wc-paybox-abstract-gateway.php:249
+msgid ""
+"You will be redirected to the Paybox payment page. If not, please use the "
+"button bellow."
+msgstr ""
+"Vous serez redirigé vers la page de paiement Paybox. Si ce n'était pas le "
+"cas, merci d'utiliser le bouton ci dessous."
+
+#: class/wc-paybox-abstract-gateway.php:257
+msgid "Continue..."
+msgstr "Continuer..."
+
+#: class/wc-paybox-abstract-gateway.php:310
+#: class/wc-paybox-abstract-gateway.php:348
+msgid "Customer is back from Paybox payment page."
+msgstr "Le client revient de la page de paiement Paybox"
+
+#: class/wc-paybox-abstract-gateway.php:311
+#: class/wc-paybox-abstract-gateway.php:313
+msgid "Payment refused by Paybox"
+msgstr "Le paiement a été refusé par Paybox"
+
+#: class/wc-paybox-abstract-gateway.php:330
+msgid "Payment was canceled by user on Paybox payment page."
+msgstr "Le paiement a été annulé par le client sur la page de paiement Paybox."
+
+#: class/wc-paybox-abstract-gateway.php:332
+msgid "Payment canceled"
+msgstr "Le paiement a été annulé"
+
+#: class/wc-paybox-abstract-gateway.php:378
+#, php-format
+msgid "IPN call from %s not allowed."
+msgstr "Appel IPN depuis %s non autorisé."
+
+#: class/wc-paybox-abstract-gateway.php:388
+#, php-format
+msgid "Missing %s parameter in Paybox call"
+msgstr "Le paramêtre %s manque dans l'appel Paybox"
+
+#: class/wc-paybox-abstract-gateway.php:398
+#: class/wc-paybox-abstract-gateway.php:407
+msgid "Payment was authorized and captured by Paybox."
+msgstr "Paiement autorisé et capturé par Paybox."
+
+#: class/wc-paybox-abstract-gateway.php:412
+msgid "Second payment was captured by Paybox."
+msgstr "Deuxième paiement capturé par Paybox."
+
+#: class/wc-paybox-abstract-gateway.php:416
+msgid "Third payment was captured by Paybox."
+msgstr "Troisième paiement capturé par Paybox."
+
+#: class/wc-paybox-abstract-gateway.php:420
+msgid "Invalid three-time payment status"
+msgstr "Statut du paiement en trois fois non valide"
+
+#: class/wc-paybox-abstract-gateway.php:427 class/wc-paybox.php:303
+#, php-format
+msgid "Unexpected type %s"
+msgstr "Type %s inattendu"
+
+#: class/wc-paybox-abstract-gateway.php:437
+#, php-format
+msgid "Payment was refused by Paybox (%s)."
+msgstr "Paiement refusé par Paybox (%s)."
+
+#: class/wc-paybox-encrypt.php:48 class/wc-paybox-encrypt.php:63
+msgid ""
+"For some reason, the key has just been generated. please reenter the HMAC "
+"key to crypt it."
+msgstr ""
+"Pour une raison quelconque, la clé vient d'être générée. Entrez à nouveau la "
+"clé HMAC pour qu'elle soit cryptée."
+
+#: class/wc-paybox-standard-gateway.php:11
+msgid "Paybox"
+msgstr "Paybox"
+
+#: class/wc-paybox-standard-gateway.php:29
+#: class/wc-paybox-threetime-gateway.php:56
+msgid "Reference:"
+msgstr "Référence"
+
+#: class/wc-paybox-standard-gateway.php:31
+#: class/wc-paybox-threetime-gateway.php:58
+msgid "Country of IP:"
+msgstr "Pays de l'IP:"
+
+#: class/wc-paybox-standard-gateway.php:33
+#: class/wc-paybox-threetime-gateway.php:60
+msgid "Processing date:"
+msgstr "Date de traitement:"
+
+#: class/wc-paybox-standard-gateway.php:35
+#: class/wc-paybox-threetime-gateway.php:62
+msgid "Card numbers:"
+msgstr "Numéros de la carte:"
+
+#: class/wc-paybox-standard-gateway.php:38
+#: class/wc-paybox-threetime-gateway.php:65
+msgid "Validity date:"
+msgstr "Date de validité:"
+
+#: class/wc-paybox-standard-gateway.php:40
+#: class/wc-paybox-threetime-gateway.php:90
+msgid "Transaction:"
+msgstr "Transaction:"
+
+#: class/wc-paybox-standard-gateway.php:41
+#: class/wc-paybox-threetime-gateway.php:91
+msgid "Call:"
+msgstr "Appel:"
+
+#: class/wc-paybox-standard-gateway.php:42
+#: class/wc-paybox-threetime-gateway.php:92
+msgid "Authorization:"
+msgstr "Autorisation:"
+
+#: class/wc-paybox-standard-gateway.php:44
+#: class/wc-paybox-threetime-gateway.php:94
+msgid "Payment information"
+msgstr "Informations sur le paiement"
+
+#: class/wc-paybox-threetime-gateway.php:11
+msgid "Paybox 3 times"
+msgstr "Paybox paiement en trois fois"
+
+#: class/wc-paybox-threetime-gateway.php:70
+msgid "First debit:"
+msgstr "Premier paiement:"
+
+#: class/wc-paybox-threetime-gateway.php:77
+#: class/wc-paybox-threetime-gateway.php:86
+msgid "Not achieved"
+msgstr "Non traité"
+
+#: class/wc-paybox-threetime-gateway.php:79
+msgid "Second debit:"
+msgstr "Seconde échéance:"
+
+#: class/wc-paybox-threetime-gateway.php:88
+msgid "Third debit:"
+msgstr "Troisième échéance:"
+
+#: class/wc-paybox.php:322
+#, php-format
+msgid "Unexpected 3-D Secure status %s"
+msgstr "Statut 3-D Secure inattendu: %s"
+
+#: class/wc-paybox.php:524
+msgid "Paybox not available. Please try again later."
+msgstr "Paybox n'est pas disponible. Merci d'essayer plus tard."
+
+#~ msgid "Rank number provided by Paybox."
+#~ msgstr "Le rang de votre site vous est fourni par Paybox"
+
+#~ msgid "Unexpected 3D Secure status %s"
+#~ msgstr "Satut 3D Secure %s inattendu"
+
+#~ msgid "Depending on following conditions (and)"
+#~ msgstr "Suivant les conditions ci-dessous (et)"
+
+#~ msgid "Depending on following conditions (or)"
+#~ msgstr "Suivant les conditions ci-dessous (ou)"
+
+#~ msgid "Maximal order count"
+#~ msgstr "Nombre maximal de commande"
+
+#~ msgid ""
+#~ "Enable 3D Secure for customer with less than this number of orders (empty "
+#~ "to ignore this condition)"
+#~ msgstr ""
+#~ "Activer 3D Secure pour les clients ayant passé moins de  for customer "
+#~ "with less than this number of orders (laisser vide pour ignorer cette "
+#~ "condition)"
+
+#~ msgid "TODO"
+#~ msgstr "TODO"
