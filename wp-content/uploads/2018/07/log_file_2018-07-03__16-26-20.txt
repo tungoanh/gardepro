@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Base Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://gardepro.demo
+Data file = /var/www/Tu/gardepro/wp-content/uploads/2018/07/demo-content-import-file_2018-07-03__16-26-20.xml
+Widget file = /var/www/Tu/gardepro/wp-content/uploads/2018/07/demo-widgets-import-file_2018-07-03__16-26-20.json
+Customizer file = /var/www/Tu/gardepro/wp-content/uploads/2018/07/demo-customizer-import-file_2018-07-03__16-26-20.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Woocommerce Shop : 
+
+Product Categories - Product categories - Imported
+Product Tag Cloud - Product tags - Imported
+
+Woocommerce Detail : 
+
+Product Categories - Product categories - Imported
+Recent Product Reviews - Recent reviews - Imported
+
+Woocommerce Shop Filters : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by Color - Imported
+Filter Products by Attribute - Filter by Size - Imported
+Filter Products by Rating - Average rating - Imported
+
+Blog Sidebar : 
+
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Off-canvas Menu : 
+
+Navigation Menu - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

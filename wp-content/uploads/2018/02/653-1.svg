@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M24.749,46.63H11.44
+		c-2.811,0-5.111-2.302-5.111-5.113V6.482c0-2.812,2.3-5.113,5.111-5.113h30.447C44.698,1.37,47,3.671,47,6.482V24.38"/>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="8.877" x2="8.135" y2="8.877"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="19.265" x2="8.135" y2="19.265"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="40.04" x2="8.135" y2="40.04"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="29.651" x2="8.135" y2="29.651"/>
+	</g>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15.356" y1="9.487" x2="37.973" y2="9.487"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15.356" y1="16.743" x2="37.973" y2="16.743"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15.356" y1="24" x2="24.749" y2="24"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15.356" y1="31.256" x2="20.476" y2="31.256"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15.356" y1="38.513" x2="20.476" y2="38.513"/>
+	<g>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35.875" cy="35.503" r="11.125"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="35.874,27.248 35.874,35.503 
+			40.825,35.503 		"/>
+	</g>
+</g>
+</svg>

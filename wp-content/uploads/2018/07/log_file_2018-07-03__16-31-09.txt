@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Furniture 3 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://gardepro.demo
+Data file = /var/www/Tu/gardepro/wp-content/uploads/2018/07/demo-content-import-file_2018-07-03__16-31-09.xml
+Widget file = /var/www/Tu/gardepro/wp-content/uploads/2018/07/demo-widgets-import-file_2018-07-03__16-31-09.json
+Customizer file = /var/www/Tu/gardepro/wp-content/uploads/2018/07/demo-customizer-import-file_2018-07-03__16-31-09.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Woocommerce Shop : 
+
+Product Categories - Product categories - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+Woocommerce Detail : 
+
+Product Categories - Product categories - Widget already exists
+Product Tag Cloud - Product tags - Imported
+Cart - Cart - Imported
+Recent Product Reviews - Recent reviews - Widget already exists
+
+Blog Sidebar : 
+
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Off-canvas Menu : 
+
+Navigation Menu - Menu - Imported
+
+Woocommerce Shop Filters : 
+
+Filter Products by Price - Filter by price - Widget already exists
+Filter Products by Attribute - Filter by Color - Widget already exists
+Filter Products by Attribute - Filter by Size - Widget already exists
+Filter Products by Rating - Average rating - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
