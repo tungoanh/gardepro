@@ -1,0 +1,9 @@
+.woocommerce-single-style-3 div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+  left: 15px; }
+
+.woocommerce-single-style-3 div.product .woocommerce-product-gallery.images .flex-control-thumbs li {
+  flex: 0 0 100%;
+  max-width: 100%; }
+
+.woocommerce-single-style-3 div.product>.onsale {
+  right: 115px; }

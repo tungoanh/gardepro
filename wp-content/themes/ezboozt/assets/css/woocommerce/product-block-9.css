@@ -1,0 +1,59 @@
+.product-style-9 li.product:not(.otf-product-list) .shop-action {
+  justify-content: flex-end;
+  padding-left: 10px;
+  padding-right: 10px; }
+
+.product-style-9 li.product:not(.otf-product-list) .compare,.product-style-9 li.product:not(.otf-product-list) .yith-wcqv-button,.product-style-9 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a {
+  background-color: #fff; }
+  .product-style-9 li.product:not(.otf-product-list) .compare:before,.product-style-9 li.product:not(.otf-product-list) .yith-wcqv-button:before,.product-style-9 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a:before {
+    color: #000; }
+
+.product-style-9 li.product:not(.otf-product-list) .compare-button,.product-style-9 li.product:not(.otf-product-list) .yith-wcqv-button,.product-style-9 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist {
+  margin-left: 2px; }
+  
+
+.product-style-9 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist {
+  transition-delay: .1s; }
+
+.product-style-9 li.product:not(.otf-product-list) .yith-wcqv-button {
+  transition-delay: .2s;
+  flex-grow: 0;
+  min-width: 40px;
+  height: auto; }
+
+.product-style-9 li.product:not(.otf-product-list) .compare,.product-style-9 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a {
+  height: 100%; }
+
+.product-style-9 li.product:not(.otf-product-list) .price {
+  float: right; }
+
+.product-style-9 li.product:not(.otf-product-list) .product-caption {
+  bottom: 20px; }
+
+.product-style-9 li.product:not(.otf-product-list) .star-rating {
+  transition: all .2s ease-in-out; }
+
+.product-style-9 li.product:not(.otf-product-list) a[class*=product_type_] {
+  color: #fff;
+  flex: 0 1 auto;
+  margin-right: auto;
+  background-color: #333; }
+  
+
+.product-style-9 li.product:not(.otf-product-list) .otf-wrap-swatches {
+  position: absolute;
+  z-index: 3;
+  opacity: 1; }
+  .product-style-9 li.product:not(.otf-product-list) .otf-wrap-swatches+.star-rating {
+    opacity: 0; }
+  
+
+.product-style-9 li.product:not(.otf-product-list):hover .compare-button,.product-style-9 li.product:not(.otf-product-list):hover .yith-wcqv-button,.product-style-9 li.product:not(.otf-product-list):hover .yith-wcwl-add-to-wishlist,.product-style-9 li.product:not(.otf-product-list):hover a[class*=product_type_] {
+  transform: translateX(0);
+  opacity: 1;
+  visibility: visible; }
+
+.product-style-9 li.product:not(.otf-product-list):hover .otf-wrap-swatches {
+  opacity: 1; }
+  .product-style-9 li.product:not(.otf-product-list):hover .otf-wrap-swatches+.star-rating {
+    opacity: 0; }

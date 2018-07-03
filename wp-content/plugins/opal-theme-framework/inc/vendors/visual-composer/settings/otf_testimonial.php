@@ -1,0 +1,101 @@
+<?php
+return array(
+    "name"                    => __("OTF Testimonial", 'opal-theme-framework'),
+    "base"                    => "otf_testimonial",
+    'icon'                    => trailingslashit(OPAL_THEME_FRAMEWORK_PLUGIN_URL) . 'inc/vendors/visual-composer/icons/testimonial.svg',
+    "class"                   => "",
+    "category"                => 'Opal Theme',
+    "description"             => esc_html__('Show Testimonial', 'opal-theme-framework'),
+    "as_parent"               => array('only' => 'otf_testimonial_item'), // Use only|except attributes to limit child shortcodes (separate multiple values with comma)
+    "as_child"                => array('except' => 'vc_column_inner'),
+    "content_element"         => true,
+    "show_settings_on_create" => false,
+    "is_container"            => true,
+    "php_class_name"          => 'WPBakeryShortCode_OTF_Container_Base',
+    "js_view"                 => 'VcColumnView',
+    "params"                  => array(
+        array(
+            'type'       => 'dropdown',
+            'heading'    => __('Style', 'opal-theme-framework'),
+            'param_name' => 'style',
+            'value'      => array(
+                __('Style 1', 'opal-theme-framework') => 'style1',
+                __('Style 2', 'opal-theme-framework') => 'style2',
+                __('Style 3', 'opal-theme-framework') => 'style3',
+                __('Style 4', 'opal-theme-framework') => 'style4',
+                __('Style 5', 'opal-theme-framework') => 'style5',
+                __('Style 6', 'opal-theme-framework') => 'style6',
+                __('Style 7', 'opal-theme-framework') => 'style7',
+            ),
+        ),
+        array(
+            "type"       => "dropdown",
+            "heading"    => esc_html__("Schema Color", 'opal-theme-framework'),
+            "param_name" => "color",
+            'value'      => array(
+                esc_html__('Dark', 'opal-theme-framework')  => 'color-schema-dark',
+                esc_html__('Light', 'opal-theme-framework') => 'color-schema-light',
+            ),
+            'std'        => 'color-schema-dark',
+        ),
+        array(
+            'type'        => 'dropdown',
+            'heading'     => __('Columns', 'opal-theme-framework'),
+            'value'       => array(
+                '1' => 1,
+                '2' => 2,
+                '3' => 3,
+            ),
+            'save_always' => true,
+            'param_name'  => 'columns',
+            'std'         => 1,
+        ),
+        array(
+            'type'        => 'checkbox',
+            'heading'     => __('Auto Play', 'opal-theme-framework'),
+            'save_always' => true,
+            'param_name'  => 'auto_play',
+            'std'         => true,
+        ),
+        array(
+            'type'        => 'checkbox',
+            'heading'     => __('Loop', 'opal-theme-framework'),
+            'save_always' => true,
+            'param_name'  => 'loop',
+            'std'         => true,
+        ),
+        array(
+            'type'        => 'textfield',
+            'heading'     => __('Autoplay interval timeout', 'opal-theme-framework'),
+            'param_name'  => 'interval_timeout',
+            'std'         => 5000,
+            'save_always' => true,
+        ),
+        array(
+            'type'        => 'checkbox',
+            'heading'     => __('Show Dot', 'opal-theme-framework'),
+            'save_always' => true,
+            'param_name'  => 'show_dot',
+            'std'         => true,
+        ),
+        array(
+            'type'        => 'checkbox',
+            'heading'     => __('Show next/prev', 'opal-theme-framework'),
+            'save_always' => true,
+            'param_name'  => 'show_nav',
+            'std'         => true,
+        ),
+        array(
+            'type'        => 'textfield',
+            'heading'     => __('Extra class name', 'opal-theme-framework'),
+            'param_name'  => 'el_class',
+            'description' => __('Style particular content element differently - add a class name and refer to it in custom CSS.', 'opal-theme-framework'),
+        ),
+        array(
+            'type' => 'css_editor',
+            'heading' => __( 'CSS box', 'opal-theme-framework' ),
+            'param_name' => 'css',
+            'group' => __( 'Design Options', 'opal-theme-framework' ),
+        ),
+    )
+);

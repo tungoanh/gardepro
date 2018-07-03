@@ -1,0 +1,1051 @@
+# <!=Copyright (C) 2018 Opal Team
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: ezboozt 1.1.09\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-04-18 04:31:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Opal Team <help@wpopal.com>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! that link is broken."
+msgstr ""
+
+#: 404.php:21
+msgid "Page does not exist or some other error occured. Go to our "
+msgstr ""
+
+#: 404.php:22
+msgid "Home page"
+msgstr ""
+
+#: 404.php:23
+msgid "or go back to"
+msgstr ""
+
+#: 404.php:24 archive.php:19 comments.php:46 home.php:11 index.php:23
+#: search.php:29
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:20 comments.php:47 home.php:12 index.php:24 search.php:30
+msgid "Next page"
+msgstr ""
+
+#: archive.php:21 home.php:13 index.php:25 search.php:31
+#: template-parts/common/page-title.php:288
+msgid "Page"
+msgstr ""
+
+#: comments.php:40
+msgid "Reply"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/back-compat.php:28 inc/back-compat.php:40 inc/back-compat.php:56
+msgid ""
+"Home Finder requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/class-main.php:97
+msgid "Expand child menu"
+msgstr ""
+
+#: inc/class-main.php:98
+msgid "Collapse child menu"
+msgstr ""
+
+#: inc/class-main.php:212
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/class-main.php:214 inc/vendors/woocommerce/class-woocommerce.php:385
+#: inc/vendors/woocommerce/class-woocommerce.php:394
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: inc/class-main.php:222
+msgid "Footer 1"
+msgstr ""
+
+#: inc/class-main.php:224 inc/class-main.php:234 inc/class-main.php:244
+#: inc/class-main.php:254 inc/class-main.php:264
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/class-main.php:232
+msgid "Footer 2"
+msgstr ""
+
+#: inc/class-main.php:242
+msgid "Footer 3"
+msgstr ""
+
+#: inc/class-main.php:252
+msgid "Footer 4"
+msgstr ""
+
+#: inc/class-main.php:262
+msgid "Footer 5"
+msgstr ""
+
+#: inc/class-main.php:272
+msgid "Off-canvas Menu"
+msgstr ""
+
+#: inc/class-main.php:274
+msgid "Add widgets here to appear in your sidebar on Canvas Menu."
+msgstr ""
+
+#: inc/class-main.php:300
+#. translators: %s: Name of current post
+msgid "Read More <span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/class-main.php:339 template-parts/header/navigation.php:32
+msgid "Top Menu"
+msgstr ""
+
+#: inc/class-main.php:340
+msgid "Vertical Menu"
+msgstr ""
+
+#: inc/class-main.php:341
+msgid "Social Links Menu"
+msgstr ""
+
+#: inc/class-main.php:342
+msgid "Account Links Menu"
+msgstr ""
+
+#: inc/template-tags.php:11
+#. translators: %s: post author
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:41
+#. translators: %s: post date
+msgid "<span class=\"posted_on\">Posted on</span> %s"
+msgstr ""
+
+#: inc/template-tags.php:55
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:106
+#. translators: %s: Name of current post
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:332
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:335
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:338
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:375
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:385
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:390
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:391
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:887
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2593
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3640
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:392
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:393
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3012
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:395
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:399
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:582
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:583
+msgid "Update Required"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:994
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:994
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:997
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:997
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2042
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2333
+msgid "Required"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2336
+msgid "Recommended"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2352
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2355
+msgid "External Source"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2358
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2375
+msgid "Not Installed"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2379
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2381
+msgid "Active"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2387
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2390
+msgid "Requires Update"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2393
+msgid "Update recommended"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2452
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2456
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2460
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2550
+msgid "Installed version:"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2558
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2570
+msgid "Available version:"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2593
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2607
+msgid "Plugin"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2608
+msgid "Source"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2609
+msgid "Type"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2613
+msgid "Version"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2614
+msgid "Status"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2663
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2668
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2674
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2744
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2777
+msgid "Install"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2783
+msgid "Update"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2786
+msgid "Activate"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2817
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2819
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2860
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2862
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2968
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2994
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3558
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3561
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3563
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3567
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3569
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3569
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3577
+msgid "Show Details"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3569
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3577
+msgid "Hide Details"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3570
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3572
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3575
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3577
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3578
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3580
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:136
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:137
+#: inc/vendors/woocommerce/class-woocommerce.php:150
+#: inc/vendors/woocommerce/class-woocommerce.php:164
+#: inc/vendors/woocommerce/class-woocommerce.php:180
+#: inc/vendors/woocommerce/class-woocommerce.php:194
+#: inc/vendors/woocommerce/class-woocommerce.php:208
+#: inc/vendors/woocommerce/class-woocommerce.php:222
+#: inc/vendors/woocommerce/class-woocommerce.php:236
+#: inc/vendors/woocommerce/class-woocommerce.php:248
+#: inc/vendors/woocommerce/class-woocommerce.php:262
+#: inc/vendors/woocommerce/class-woocommerce.php:275
+#: inc/vendors/woocommerce/class-woocommerce.php:292
+msgid "Opal Extras"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:140
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:675
+msgid "Grid"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:141
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:676
+msgid "List"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:142
+msgid "Carousel"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:148
+msgid "Enable boxed"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:152
+#: inc/vendors/woocommerce/class-woocommerce.php:182
+#: inc/vendors/woocommerce/class-woocommerce.php:196
+#: inc/vendors/woocommerce/class-woocommerce.php:210
+#: inc/vendors/woocommerce/class-woocommerce.php:224
+#: inc/vendors/woocommerce/class-woocommerce.php:250
+#: inc/vendors/woocommerce/class-woocommerce.php:264
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:162
+msgid "Listing Skin"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:166
+msgid "Default"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:167
+msgid "Line Bottom"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:168
+msgid "Border box"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:178
+msgid "Enable Big Typo"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:192
+msgid "Show Rating"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:206
+msgid "Show Category"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:220
+msgid "Show Short Description"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:234
+msgid "Image size"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:237
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" "
+"or other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"full\" size."
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:246
+msgid "Show Dot"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:260
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:274
+msgid "Navigation Position"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:278
+msgid "Top - Center"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:279
+msgid "Top - Right"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:280
+msgid "Middle - Center"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:281
+msgid "Bottom - Center"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:291
+msgid "Navigation Style"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:295
+msgid "Style 1"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:296
+msgid "Style 2"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:314
+msgid "Add to cart"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:331
+msgid "has been added to your cart"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:383
+msgid "Woocommerce Shop"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:392
+msgid "Woocommerce Detail"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:414
+#: inc/vendors/woocommerce/class-woocommerce.php:448
+#: inc/vendors/woocommerce/class-woocommerce.php:500
+msgid "Sku"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:419
+#: inc/vendors/woocommerce/class-woocommerce.php:453
+#: inc/vendors/woocommerce/class-woocommerce.php:500
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:422
+#: inc/vendors/woocommerce/class-woocommerce.php:456
+#: inc/vendors/woocommerce/class-woocommerce.php:479
+#: inc/vendors/woocommerce/class-woocommerce.php:500
+msgid "Id"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:479
+msgid "Name"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:479
+msgid "Slug"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:512
+msgid "Product Metabox"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:519
+msgid "Banner"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:82
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:289
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:84
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:87
+msgid "item"
+msgid_plural "items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:275
+#: template-parts/common/page-title.php:292
+#: template-parts/header/search-button.php:17
+msgid "Search"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:303
+#: template-parts/header/account.php:12 template-parts/header/account.php:18
+#: template-parts/header/account.php:30 template-parts/header/account.php:32
+msgid "My Account"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:529
+msgid "Out Of Stock"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:549
+msgid ""
+"Creating an account is quick and easy, and will allow you to move through "
+"our checkout quicker."
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:634
+#: template-parts/shortcodes/otf-countdown.php:57
+msgid "days"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:635
+#: template-parts/shortcodes/otf-countdown.php:58
+msgid "hours"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:636
+#: template-parts/shortcodes/otf-countdown.php:59
+msgid "minutes"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:637
+#: template-parts/shortcodes/otf-countdown.php:60
+msgid "seconds"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:638
+#: template-parts/shortcodes/otf-countdown.php:61
+msgid "Expired"
+msgstr ""
+
+#: search.php:5
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:7 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:19
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:19
+msgid "Previous"
+msgstr ""
+
+#: single.php:20
+msgid "Next Post"
+msgstr ""
+
+#: single.php:20
+msgid "Next"
+msgstr ""
+
+#: template-parts/common/page-title.php:62
+msgid "Home"
+msgstr ""
+
+#: template-parts/common/page-title.php:63
+msgid "Blog"
+msgstr ""
+
+#: template-parts/common/page-title.php:64
+msgid "Shop"
+msgstr ""
+
+#: template-parts/common/page-title.php:239
+msgid "Day"
+msgstr ""
+
+#: template-parts/common/page-title.php:243
+#: template-parts/common/page-title.php:247
+#: template-parts/common/page-title.php:251
+#: template-parts/common/page-title.php:259
+#: template-parts/common/page-title.php:263
+msgid " Archives"
+msgstr ""
+
+#: template-parts/common/page-title.php:255
+msgid "Month"
+msgstr ""
+
+#: template-parts/common/page-title.php:267
+msgid "Year"
+msgstr ""
+
+#: template-parts/common/page-title.php:269
+msgid "Archives"
+msgstr ""
+
+#: template-parts/common/page-title.php:279
+msgid "Author"
+msgstr ""
+
+#: template-parts/common/page-title.php:281
+msgid "Author: "
+msgstr ""
+
+#: template-parts/common/page-title.php:294
+msgid "Keyword: "
+msgstr ""
+
+#: template-parts/common/page-title.php:297
+msgid "Error 404"
+msgstr ""
+
+#: template-parts/header/account.php:14
+msgid "Login/Register"
+msgstr ""
+
+#: template-parts/header/account.php:30 template-parts/header/account.php:32
+msgid "Login / Register"
+msgstr ""
+
+#: template-parts/header/currency-switcher.php:58
+msgid "change the rate and this description to the right values"
+msgstr ""
+
+#: template-parts/header/currency-switcher.php:80
+msgid "Warning: Woocommerce is not activated"
+msgstr ""
+
+#: template-parts/header/navigation-button.php:10
+#: template-parts/header-mobile/main.php:5
+msgid "Menu"
+msgstr ""
+
+#: template-parts/header/topbar.php:5
+msgid "Topbar Social Links Menu"
+msgstr ""
+
+#: template-parts/page/content-front-page.php:43
+#. translators: %s: Name of current post
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/page/content-page.php:14
+#: template-parts/post/content-audio.php:69
+#: template-parts/post/content-gallery.php:57
+#: template-parts/post/content-image.php:67
+#: template-parts/post/content-team.php:67
+#: template-parts/post/content-video.php:80 template-parts/post/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/portfolio/content-single.php:14
+msgid "Author FullName"
+msgstr ""
+
+#: template-parts/portfolio/content-single.php:15
+msgid "Showcase Link"
+msgstr ""
+
+#: template-parts/portfolio/content-single.php:16
+msgid "Client"
+msgstr ""
+
+#: template-parts/portfolio/content-single.php:17
+msgid "Date Created"
+msgstr ""
+
+#: template-parts/portfolio/content-single.php:38
+msgid "Information"
+msgstr ""
+
+#: template-parts/post/content-audio.php:64
+#: template-parts/post/content-gallery.php:52
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-team.php:62
+#: template-parts/post/content-video.php:75 template-parts/post/content.php:38
+#. translators: %s: Name of current post
+msgid "Read more<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content-team.php:75
+msgid "Address:"
+msgstr ""
+
+#: template-parts/post/content-team.php:78
+msgid "Phone:"
+msgstr ""
+
+#: template-parts/post/content-team.php:81
+msgid "Web:"
+msgstr ""
+
+#: template-parts/post/content-team.php:84
+msgid "Email:"
+msgstr ""
+
+#: template-parts/shortcodes/otf-backtop.php:14
+msgid "Top"
+msgstr ""
+
+#: template-parts/shortcodes/otf-countdown.php:10
+#: template-parts/shortcodes/otf-featured-box.php:18
+msgid "Click here"
+msgstr ""
+
+#: template-parts/shortcodes/otf-latest-tweets.php:22
+msgid "Tweets by @"
+msgstr ""
+
+#: template-parts/shortcodes/otf-menu-social.php:8
+msgid "Connect with us"
+msgstr ""
+
+#: template-parts/shortcodes/otf-portfolio.php:32
+msgid "All"
+msgstr ""
+
+#: template-parts/shortcodes/otf-pricing.php:77
+msgid "Recommend"
+msgstr ""
+
+#: template-parts/shortcodes/otf-product-category-banner.php:68
+msgid "products"
+msgstr ""
+
+#: template-parts/shortcodes/otf-vertical-menu.php:7
+msgid "Vertical menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "ezboozt"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.wpopal.com/product/theme-base/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"In 2018, ezBoozt is genuinely Multi-concept WordPress Theme that mesmerizes "
+"you with 20+ creative demos specifically crafted for any uses (fashion, "
+"electronic, food, beauty, furniture, and single products). Responsiveness, "
+"high performance, and easy customization make it the greatest versatile "
+"theme ever."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Opal Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wpopal.com/"
+msgstr ""
+
+#: comments.php:17
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:21
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:1181
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:3008
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2402
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2448
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/tgm/class-tgm-plugin-activation.php:2542
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/common/page-title.php:95
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""

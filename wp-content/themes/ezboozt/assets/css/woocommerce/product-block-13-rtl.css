@@ -1,0 +1,54 @@
+.product-style-13 li.product:not(.otf-product-list) .product-block {
+  position: relative;
+  overflow: visible; }
+
+.product-style-13 li.product:not(.otf-product-list) .product-caption {
+  bottom: 0;
+  left: 1px; }
+  
+
+.product-style-13 li.product:not(.otf-product-list) .shop-action {
+  max-width: 45px;
+  margin-right: auto; }
+
+.product-style-13 li.product:not(.otf-product-list) a[class*=product_type_] {
+  background-color: #fff; }
+  .product-style-13 li.product:not(.otf-product-list) a[class*=product_type_]:before {
+    color: #000; }
+  .product-style-13 li.product:not(.otf-product-list) a[class*=product_type_].loading:before,.product-style-13 li.product:not(.otf-product-list) a[class*=product_type_]:hover:before {
+    color: #fff; }
+
+.product-style-13 li.product:not(.otf-product-list) .compare,.product-style-13 li.product:not(.otf-product-list) .yith-wcqv-button,.product-style-13 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a {
+  background-color: #fff; }
+  .product-style-13 li.product:not(.otf-product-list) .compare:before,.product-style-13 li.product:not(.otf-product-list) .yith-wcqv-button:before,.product-style-13 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a:before {
+    color: #000; }
+  .product-style-13 li.product:not(.otf-product-list) .compare:hover:before,.product-style-13 li.product:not(.otf-product-list) .yith-wcqv-button:hover:before,.product-style-13 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a:hover:before {
+    color: #fff; }
+
+.product-style-13 li.product:not(.otf-product-list) figure {
+  margin-bottom: 0; }
+
+.product-style-13 li.product:not(.otf-product-list) .caption {
+  background-color: #fff;
+  padding: 1rem;
+  transition: all .35s ease; }
+  
+
+.product-style-13 li.product:not(.otf-product-list) .price {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 15; }
+
+.product-style-13 li.product:not(.otf-product-list) .star-rating {
+  float: left; }
+
+.product-style-13 li.product:not(.otf-product-list):hover .caption {
+  top: 100%;
+  opacity: 1;
+  z-index: 101; }
+
+.product-style-13 li.product:not(.otf-product-list):hover .product-caption {
+  left: 1px;
+  opacity: 1;
+  visibility: visible; }

@@ -1,0 +1,11 @@
+
+---Downloaded files---
+The import files for: Base Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://gardepro.dev.fuznet.com
+Data file = /home/gardepro.dev.fuznet.com/public_html/wp-content/uploads/2018/07/demo-content-import-file_2018-07-03__15-37-01.xml
+Widget file = /home/gardepro.dev.fuznet.com/public_html/wp-content/uploads/2018/07/demo-widgets-import-file_2018-07-03__15-37-01.json
+Customizer file = /home/gardepro.dev.fuznet.com/public_html/wp-content/uploads/2018/07/demo-customizer-import-file_2018-07-03__15-37-01.dat
+Redux files:
+not defined!

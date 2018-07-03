@@ -1,0 +1,6 @@
+.woocommerce-single-style-2 div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+  right: 130px; }
+
+.woocommerce-single-style-2 div.product .woocommerce-product-gallery.images .flex-control-thumbs li {
+  flex: 0 0 100%;
+  max-width: 100%; }

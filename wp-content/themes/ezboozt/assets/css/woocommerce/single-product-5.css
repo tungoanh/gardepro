@@ -1,0 +1,23 @@
+.woocommerce-single-style-5.single-product .site-main>.product .variations label {
+  display: none; }
+
+.woocommerce-single-style-5.single-product .site-main>.product .entry-summary {
+  order: -1; }
+
+
+
+
+
+.woocommerce-single-style-5.single-product div.product .woocommerce-cart .price {
+  font-size: 40px;
+  font-size: 2.5rem;
+  margin: 0 0 1em; }
+  .woocommerce-single-style-5.single-product div.product .woocommerce-cart .price ins {
+    background-color: transparent; }
+  .woocommerce-single-style-5.single-product div.product .woocommerce-cart .price del {
+    font-size: 30px;
+    font-size: 1.875rem;
+    color: #767676; }
+
+.woocommerce-single-style-5.single-product div.product .woocommerce-cart .quantity {
+  margin: 0 auto 30px; }

@@ -1,0 +1,65 @@
+.product-style-2 li.product:not(.otf-product-list) .yith-wcqv-button {
+  background-color: transparent;
+  color: #000;
+  border-style: solid;
+  border-width: 1px 0;
+  padding: 3px 0;
+  margin-top: 15px;
+  display: block;
+  box-shadow: none; }
+  
+  .product-style-2 li.product:not(.otf-product-list) .yith-wcqv-button:hover {
+    color: #fff; }
+
+.product-style-2 li.product:not(.otf-product-list) .woocommerce-loop-product__title {
+  margin-top: 22px; }
+
+.product-style-2 li.product:not(.otf-product-list) .price {
+  padding-top: 5px; }
+
+.product-style-2 li.product:not(.otf-product-list) .product-caption {
+  bottom: 0;
+  right: 0;
+  perspective: 600px;
+  border-style: solid;
+  border-width: 0 0 1px; }
+  
+
+.product-style-2 li.product:not(.otf-product-list) a[class*=product_type_] {
+  background-color: #fff;
+  color: #000; }
+  .product-style-2 li.product:not(.otf-product-list) a[class*=product_type_].loading,.product-style-2 li.product:not(.otf-product-list) a[class*=product_type_]:hover {
+    color: #fff; }
+
+.product-style-2 li.product:not(.otf-product-list) .compare,.product-style-2 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a {
+  height: 100%;
+  background-color: #fff; }
+  .product-style-2 li.product:not(.otf-product-list) .compare:before,.product-style-2 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a:before {
+    color: #000; }
+  .product-style-2 li.product:not(.otf-product-list) .compare:hover:before,.product-style-2 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist>div>a:hover:before {
+    color: #fff; }
+
+
+
+.product-style-2 li.product:not(.otf-product-list) .compare-button,.product-style-2 li.product:not(.otf-product-list) .yith-wcwl-add-to-wishlist {
+  border-width: 0 1px 0 0;
+  border-style: solid; }
+
+.product-style-2 li.product:not(.otf-product-list) .otf-wrap-swatches {
+  position: absolute;
+  bottom: 40px;
+  right: 10px;
+  visibility: visible;
+  z-index: 3; }
+  
+
+.product-style-2 li.product:not(.otf-product-list):hover .product-caption,.product-style-2 li.product:not(.otf-product-list):hover .yith-wcqv-button {
+  opacity: 1; }
+  .product-style-2 li.product:not(.otf-product-list):hover .product-caption .shop-action>a,.product-style-2 li.product:not(.otf-product-list):hover .product-caption .shop-action>div {
+    transform: rotateX(0deg);
+    opacity: 1;
+    visibility: visible; }
+
+.product-style-2 li.product:not(.otf-product-list):hover .otf-wrap-swatches {
+  right: 10px;
+  visibility: visible; }
